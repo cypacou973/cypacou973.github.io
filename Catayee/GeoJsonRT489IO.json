@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catayee Patrice",
+        "description": "Immat:RT-489-IO",
+        "infobox": true,
+        "draggable": false,
+        "fill": "red",
+        "speed": 0.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3058116436005,
+          4.940139988340562
+        ]
+      }
+    }
+  ]
+}

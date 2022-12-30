@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catayee Patrice",
+        "description": "Immat:ZE-756-BN",
+        "infobox": true,
+        "draggable": false,
+        "fill": "green",
+        "speed": 0.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3023462295531,
+          4.936206431776973
+        ]
+      }
+    }
+  ]
+}

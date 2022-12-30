@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catayee Patrice",
+        "description": "Immat:FG-203-LM",
+        "infobox": true,
+        "draggable": false,
+        "fill": "yellow",
+        "image": "https://www.dropbox.com/s/5p2ng3dq9tkx7qc/Cocher.png?dl=0",
+        "urlGeoloc": "https://www.dropbox.com/s/qjegw6oquwzrgmt/GeoJsonFG203LM.json?dl=0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.304652929306,
+          4.942277781031696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catayee Patrice",
+        "description": "Immat:RT-489-IO",
+        "infobox": true,
+        "draggable": false,
+        "fill": "red",
+        "image": "https://www.dropbox.com/s/cmy56w8hekdhvj8/Posi_Gps.png?dl=0",
+        "urlGeoloc": "https://www.dropbox.com/s/1m7mt6ya9rqt1ti/GeoJsonRT489IO.json?dl=0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3058116436005,
+          4.940139988340562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catayee Patrice",
+        "description": "Immat:ZE-756-BN",
+        "infobox": true,
+        "draggable": false,
+        "fill": "green",
+        "image": "https://www.dropbox.com/s/yfqwf42wrhm1do9/Camera.png?dl=0",
+        "urlGeoloc": "https://www.dropbox.com/s/w6ebe5m03d64pyi/GeoJsonZE756BN.json?dl=0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3023462295531,
+          4.936206431776973
+        ]
+      }
+    }
+  ]
+}

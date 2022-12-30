@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+  "feature":[
+    {
+     "type": "feature",
+     "propertie":{
+       "title": "Tong-Lee-A-Taï",
+       "description": "GB-896-JK",
+       "fill": "#00FFFF",
+       "infobox": true,
+       "draggable": false
+    },
+     "geometry":{
+       "type": "point",
+       "coordinates":[
+         "-52.3059242963791",
+         "4.940110593642988"
+       ]
+      }       
+   },
+   {
+    "type": "feature",
+    "propertie":{
+      "title": "Tong-Lee-A-Taï",
+      "description": "GB-870-JK",
+      "fill": "#00FF00",
+      "infobox": true,
+      "draggable": false
+     },
+   "geometry":{
+     "type": "point",
+       "coordinates":[
+         "-52.3023462295531",
+         "4.943197029768433"
+       ]
+     }       
+   } 
+  ]
+}

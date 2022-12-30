@@ -1,0 +1,36 @@
+{
+  "title": "Catayee",
+  "description": "Patrice",
+  "ville": "97354 Rémire-Montjoly",
+  "email": "rolly973@gmail.com",
+  "mobile": "0694235687",
+  "photo": "",
+  "nombreVehicule": 3,
+  "urlTousVehicules": "https://www.dropbox.com/s/4k3wve3fox4im9h/Client_Catayee_GeoJson.json?dl=0",
+  "vehicule": [
+    {
+      "immatriculation": "FG-203-LM",
+      "marque": "Easy_Watt",
+      "modele": "EW50CC",
+      "numSerie": "1254789gh789",
+      "image": "https://www.dropbox.com/s/5p2ng3dq9tkx7qc/Cocher.png?dl=0",
+      "urlGeoloc": "https://www.dropbox.com/s/qjegw6oquwzrgmt/GeoJsonFG203LM.json?dl=0"
+    },
+    {
+      "immatriculation": "RT-489-IO",
+      "marque": "NUI",
+      "modele": "NUI50CC",
+      "numSerie": "897145re125az",
+      "image": "https://www.dropbox.com/s/cmy56w8hekdhvj8/Posi_Gps.png?dl=0",
+      "urlGeoloc": "https://www.dropbox.com/s/1m7mt6ya9rqt1ti/GeoJsonRT489IO.json?dl=0"
+    },
+    {
+      "immatriculation": "ZE-756-BN",
+      "marque": "COCO-CITY",
+      "modele": "CC125CC",
+      "numSerie": "45789ty120de",
+      "image": "https://www.dropbox.com/s/yfqwf42wrhm1do9/Camera.png?dl=0",
+      "urlGeoloc": "https://www.dropbox.com/s/w6ebe5m03d64pyi/GeoJsonZE756BN.json?dl=0"
+    }
+  ]
+}

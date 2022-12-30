@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Catayee Patrice",
+        "description": "Immat:FG-203-LM",
+        "infobox": true,
+        "draggable": false,
+        "fill": "yellow",
+        "speed": 0.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.304652929306,
+          4.942277781031696
+        ]
+      }
+    }
+  ]
+}

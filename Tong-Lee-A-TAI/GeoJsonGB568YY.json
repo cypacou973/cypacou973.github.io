@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": 
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tong-Lee-A-Taï",
+        "description": "Roland<br>Immat:GB568YY",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#008000"
+		},
+      "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -52.3034405708313,
+           4.943197029768433
+         ] 
+        }
+    }
+}
