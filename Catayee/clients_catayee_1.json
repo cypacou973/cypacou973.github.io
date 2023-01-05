@@ -1,0 +1,36 @@
+{
+  "title": "Catayee",
+  "description": "Patrice",
+  "ville": "97354 Rémire-Montjoly",
+  "email": "patrice.catayee@gmail.com",
+  "mobile": "0694235687",
+  "photo": "",
+  "nombreVehicule": 3,
+  "urlTousVehicules": "/Catayee/Client_Catayee_GeoJson.json",
+  "vehicule": [
+    {
+      "immatriculation": "FG-203-LM",
+      "marque": "Easy_Watt",
+      "modele": "EW50CC",
+      "numSerie": "1254789gh789",
+      "image": "/Catayee/Cocher.png",
+      "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
+    },
+    {
+      "immatriculation": "RT-489-IO",
+      "marque": "NUI",
+      "modele": "NUI50CC",
+      "numSerie": "897145re125az",
+      "image": "/Catayee/Posi_Gps.png",
+      "urlGeoloc": "/Catayee/GeoJsonRT489IO.json"
+    },
+    {
+      "immatriculation": "ZE-756-BN",
+      "marque": "COCO-CITY",
+      "modele": "CC125CC",
+      "numSerie": "45789ty120de",
+      "image": "/Catayee/Camera.png",
+      "urlGeoloc": "/Catayee/GeoJsonZE756BN.json"
+    }
+  ]
+}
