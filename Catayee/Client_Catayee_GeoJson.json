@@ -9,8 +9,8 @@
         "infobox": true,
         "draggable": false,
         "fill": "yellow",
-        "image": "https://www.dropbox.com/s/5p2ng3dq9tkx7qc/Cocher.png?dl=0",
-        "urlGeoloc": "https://www.dropbox.com/s/qjegw6oquwzrgmt/GeoJsonFG203LM.json?dl=0"
+        "image": "/Catayee/Cocher.png",
+        "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
       },
       "geometry": {
         "type": "Point",
@@ -28,8 +28,8 @@
         "infobox": true,
         "draggable": false,
         "fill": "red",
-        "image": "https://www.dropbox.com/s/cmy56w8hekdhvj8/Posi_Gps.png?dl=0",
-        "urlGeoloc": "https://www.dropbox.com/s/1m7mt6ya9rqt1ti/GeoJsonRT489IO.json?dl=0"
+        "image": "/Catayee/Posi_Gps.png",
+        "urlGeoloc": "/Catayee/GeoJsonRT489IO.json"
       },
       "geometry": {
         "type": "Point",
@@ -47,8 +47,8 @@
         "infobox": true,
         "draggable": false,
         "fill": "green",
-        "image": "https://www.dropbox.com/s/yfqwf42wrhm1do9/Camera.png?dl=0",
-        "urlGeoloc": "https://www.dropbox.com/s/w6ebe5m03d64pyi/GeoJsonZE756BN.json?dl=0"
+        "image": "/Catayee/Camera.png",
+        "urlGeoloc": "/Catayee/GeoJsonZE756BN.json"
       },
       "geometry": {
         "type": "Point",
