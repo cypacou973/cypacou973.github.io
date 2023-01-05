@@ -13,7 +13,7 @@
       "marque": "Easy_Watt",
       "modele": "EW50CC",
       "numSerie": "1254789gh789",
-      "image": "/Catayee/photo/Cocher.png",
+      "image": "/Catayee/Photo/Cocher.png",
       "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
     },
     {
@@ -22,14 +22,14 @@
       "modele": "NUI50CC",
       "numSerie": "897145re125az",
       "image": "/Catayee/Posi_Gps.png",
-      "urlGeoloc": "/Catayee/GeoJsonRT489IO.json"
+      "urlGeoloc": "/Catayee/Photo/GeoJsonRT489IO.json"
     },
     {
       "immatriculation": "ZE-756-BN",
       "marque": "COCO-CITY",
       "modele": "CC125CC",
       "numSerie": "45789ty120de",
-      "image": "/Catayee/Camera.png",
+      "image": "/Catayee/Photo/Camera.png",
       "urlGeoloc": "/Catayee/GeoJsonZE756BN.json"
     }
   ]
