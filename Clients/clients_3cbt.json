@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "title": "Catayee",
+      "description": "Patrice",
+      "url": "clients_catayee.json"
+    },
+    {
+      "title": "Tong-Lee-A-Taï",
+      "description": "Roland",
+      "url": "client_Tong-Lee-A-Tai.json"
+    }
+  ]
+}
