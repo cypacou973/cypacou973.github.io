@@ -12,19 +12,19 @@
       "immatriculation": "GB-896-JK",
       "marque": "Toyota",
       "modele": "ZX80CC",
-      "image": "https://www.dropbox.com/s/urcqy2xan60qlym/Escalier_Piscine.png?dl=0"
+      "image": "/Tong-Lee-A-TAI/Escalier_Piscine.png"
     },
     {
       "immatriculation": "GB-875-JK",
       "marque": "Honda",
       "modele": "HZ1000",
-      "image": "https://www.dropbox.com/s/6gkvsmhknwujpii/Velo_Elec.png?dl=0"
+      "image": "/Tong-Lee-A-TAI/Velo_Elec.png"
     },
     {
       "immatriculation": "KZ-256-LM",
       "marque": "Kawazaki",
       "modele": "KXR1250",
-      "image": "https://www.dropbox.com/s/nak8smmsa1xqt87/Voiture_Elec.png?dl=0"
+      "image": "/Tong-Lee-A-TAI/Voiture_Elec.png"
     }
   ]
 }
