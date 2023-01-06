@@ -13,18 +13,21 @@
       "marque": "Toyota",
       "modele": "ZX80CC",
       "image": "/Tong-Lee-A-TAI/Photo/Escalier_Piscine.png"
+      "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
     },
     {
       "immatriculation": "GB-875-JK",
       "marque": "Honda",
       "modele": "HZ1000",
       "image": "/Tong-Lee-A-TAI/Photo/Velo_Elec.png"
+      "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
     },
     {
       "immatriculation": "KZ-256-LM",
       "marque": "Kawazaki",
       "modele": "KXR1250",
       "image": "/Tong-Lee-A-TAI/Photo/Voiture_Elec.png"
+      "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
     }
   ]
 }
