@@ -6,28 +6,28 @@
   "mobile": "0694235687",
   "photo": "",
   "nombreVehicule": 3,
-  "urlTousVehicules": "/Tong-Lee-A-TAI/Tong-Lee-A-Tai_Geojson.json",
+  "urlTousVehicules": "/Tong-Lee-A-TAI/Tong-Lee-A-Tai_GeoJson.json",
   "vehicule": [
     {
       "immatriculation": "GB-896-JK",
       "marque": "Toyota",
       "modele": "ZX80CC",
       "image": "/Tong-Lee-A-TAI/Photo/Escalier_Piscine.png",
-      "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonGB568YY.json"
+      "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonGB896JK.json"
     },
     {
       "immatriculation": "GB-875-JK",
       "marque": "Honda",
       "modele": "HZ1000",
       "image": "/Tong-Lee-A-TAI/Photo/Velo_Elec.png",
-      "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
+      "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonGB875JK.json"
     },
     {
       "immatriculation": "KZ-256-LM",
       "marque": "Kawazaki",
       "modele": "KXR1250",
       "image": "/Tong-Lee-A-TAI/Photo/Voiture_Elec.png",
-      "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
+      "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonZE256LM.json"
     }
   ]
 }
