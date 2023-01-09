@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": 
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tong-Lee-A-Taï Roland",
+        "description": "Roland<br>Immat:GB-896-JK",
+        "infobox": true,
+        "draggable": false,
+        "fill": "#008000"
+		},
+      "geometry": {
+         "type": "Point",
+         "coordinates": [
+           -52.313737942702815,
+          4.939317872083549
+         ] 
+        }
+    }
+}

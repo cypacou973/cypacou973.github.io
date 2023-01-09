@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tong-Lee-A-Tai Roland",
+        "description": "Roland<br>Immat:ZE-256-LM",
+        "infobox": true,
+        "draggable": false,
+        "fill": "yellow",
+        "speed": 0.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.30826253872719,
+          4.935204677625407
+        ]
+      }
+    }
+  ]
+}
