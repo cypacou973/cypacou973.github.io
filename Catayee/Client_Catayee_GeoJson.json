@@ -9,7 +9,7 @@
         "infobox": true,
         "draggable": false,
         "fill": "yellow",
-        "image": "/Catayee/Cocher.png",
+        "image": "/Catayee/Photo/Cocher.png",
         "urlGeoloc": "/Catayee/GeoJsonFG203LM.json"
       },
       "geometry": {
@@ -28,7 +28,7 @@
         "infobox": true,
         "draggable": false,
         "fill": "red",
-        "image": "/Catayee/Posi_Gps.png",
+        "image": "/Catayee/Photo/Posi_Gps.png",
         "urlGeoloc": "/Catayee/GeoJsonRT489IO.json"
       },
       "geometry": {
@@ -47,7 +47,7 @@
         "infobox": true,
         "draggable": false,
         "fill": "green",
-        "image": "/Catayee/Camera.png",
+        "image": "/Catayee/Photo/Camera.png",
         "urlGeoloc": "/Catayee/GeoJsonZE756BN.json"
       },
       "geometry": {
