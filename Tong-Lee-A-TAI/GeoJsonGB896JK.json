@@ -10,4 +10,13 @@
         "draggable": false,
         "fill": "#008000"
 		},
-      
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.313737942270815,
+          4.939317872083549
+        ]
+      }
+    }
+  ]
+}
