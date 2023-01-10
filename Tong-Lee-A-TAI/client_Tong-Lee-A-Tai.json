@@ -12,6 +12,7 @@
       "immatriculation": "GB-896-JK",
       "marque": "Toyota",
       "modele": "ZX80CC",
+      "numSerie":"569ghtqn78900036",
       "image": "/Tong-Lee-A-TAI/Photo/Escalier_Piscine.png",
       "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonGB896JK.json"
     },
@@ -19,6 +20,7 @@
       "immatriculation": "GB-875-JK",
       "marque": "Honda",
       "modele": "HZ1000",
+      "numSerie":"569gwxcrop8900027",
       "image": "/Tong-Lee-A-TAI/Photo/Velo_Elec.png",
       "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonGB875JK.json"
     },
@@ -26,6 +28,7 @@
       "immatriculation": "KZ-256-LM",
       "marque": "Kawazaki",
       "modele": "KXR1250",
+      "numSerie":"569ghtaert8900066",
       "image": "/Tong-Lee-A-TAI/Photo/Voiture_Elec.png",
       "urlGeoloc": "/Tong-Lee-A-TAI/GeoJsonZE256LM.json"
     }
