@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Tong-Lee-A-Tai Roland",
-        "description": "Roland<br>Immat:ZE-256-LM",
+        "description": "Immat:ZE-256-LM",
         "infobox": true,
         "draggable": false,
         "fill": "yellow",
