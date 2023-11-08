@@ -9,6 +9,7 @@
         "infobox": true,
         "draggable": false,
         "fill": "#008000"
+	"speed": 0.01
 		},
       "geometry": {
          "type": "Point",
