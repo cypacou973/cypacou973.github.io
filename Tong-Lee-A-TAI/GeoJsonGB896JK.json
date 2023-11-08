@@ -8,7 +8,7 @@
         "description": "Roland<br>Immat:GB-896-JK",
         "infobox": true,
         "draggable": false,
-        "fill": "#008000"
+        "fill": "#008000",
 	"speed": 0.01
 		},
       "geometry": {
