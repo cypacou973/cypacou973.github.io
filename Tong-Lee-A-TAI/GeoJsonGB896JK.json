@@ -1,22 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": 
+  "features": [
     {
       "type": "Feature",
       "properties": {
-        "title": "Tong-Lee-A-Taï Roland",
-        "description": "Roland<br>Immat:GB-896-JK",
+        "title": "Tong-Lee-A-Tai Roland",
+        "description": "Immat:GB-875-JK",
         "infobox": true,
         "draggable": false,
-        "fill": "#008000",
-	"speed": 0.01
-		},
+        "fill": "red",
+        "speed": 0.01
+      },
       "geometry": {
-         "type": "Point",
-         "coordinates": [
-          -52.313737942702815,
-          4.939317872083549
-         ] 
-        }
+        "type": "Point",
+        "coordinates": [
+          -52.31001935283717,
+          4.930887254597209
+        ]
+      }
     }
+  ]
 }
