@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tong-Lee-A-Tai Roland",
+        "description": "Immat:GB-896-JK",
+        "infobox": true,
+        "draggable": false,
+        "fill": "yellow",
+        "image": "/Tong-Lee-A-Tai/Photo/Escalier_Piscine.png",
+        "urlGeoloc": "/Tong-Lee-A-Tai/GeoJsonGB896JK.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.313737942702815,
+          4.939317872083549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tong-Lee-A-Tai Roland",
+        "description": "Immat:GB-875-JK",
+        "infobox": true,
+        "draggable": false,
+        "fill": "red",
+        "image": "/Tong-Lee-A-Tai/Photo/Velo_Elec.png",
+        "urlGeoloc": "/Tong-Lee-A-Tai/GeoJsonGB875JK.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.31001935283717,
+          4.930887254597209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tong-Lee-A-Tai Roland",
+        "description": "Immat:ZE-256-LM",
+        "infobox": true,
+        "draggable": false,
+        "fill": "green",
+        "image": "/Tong-Lee-A-Tai/Photo/Voiture_Elec.png",
+        "urlGeoloc": "/Tong-Lee-A-Tai/GeoJsonZE756LN.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.30826253872719,
+          4.935204677625407
+        ]
+      }
+    }
+  ]
+}
